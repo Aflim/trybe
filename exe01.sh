@@ -1,4 +1,5 @@
 #!/bin/bash
+Eu sou tryber e...
 #Exercicio aula 
 echo "******** Exercicio 01 ********"
 
