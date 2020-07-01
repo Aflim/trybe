@@ -1,5 +1,5 @@
 #!/bin/bash
-Eu sou tryber e...  
+Vou ter muito sucesso na programacao! 
 #Exercicio aula 
 echo "******** Exercicio 01 ********"
 
